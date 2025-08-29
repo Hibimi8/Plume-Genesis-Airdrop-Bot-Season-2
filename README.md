@@ -35,8 +35,8 @@ Fill in your wallet details and configure your preferred settings:
 ```bash
 PLUME_RPC=https://rpc.plume.org
 
-PRIVATE_KEY_1=your_private_key
-WALLET_ADDRESS_1=your_address
+PRIVATE_KEY_1=0xyour_private_key
+WALLET_ADDRESS_1=0xyour_address
 
 # you can change
 MIN_PLUME=10
